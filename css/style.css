@@ -1,0 +1,44 @@
+body {
+  background-color: none;
+  /*color: #222;*/
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+hr {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-top: 1px solid #bbb;
+}
+
+.container {
+  padding: 10px 50px 10px 50px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+@media screen and (orientation: landscape) {
+  .seventy {
+    width: 70%;
+  }
+}
+
+.content {
+  padding: 10px 50px 10px 50px;
+}
+
+table.research {
+  
+}
+
+table.research td {
+  padding-bottom: 2em;
+}
+
+.contact {
+  text-align: center;
+}
